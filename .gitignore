@@ -1,0 +1,16 @@
+# Local .terraform directories
+**/.terraform/*
+**/.DS_Store
+**/.terraform.lock.hcl
+**/.vscode
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .pytest_cache
+*/.pytest_cache
+
+**/__pycache__/**
+
+*/.ruff_cache
